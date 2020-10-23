@@ -1,0 +1,77 @@
+HTML CSS JSResult
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    background: #0f0c29;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #4520ab, #302b63, #4520ab);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #4520ab, #302b63, #4520ab);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+
+    align-items: center;
+
+  
+}
+h1{
+   
+        border: 2px solid white;
+        color: white;
+        text-align: center;
+        padding: 30px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 
+    
+}
+
+h3 {
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    -webkit-box-reflect: below 10px linear-gradient(transparent, rgba(0, 0, 0, 0.281));
+}
+
+.page .count {
+  
+    color: white;
+    font-family: sans-serif;
+    font-size: 4rem;
+    padding: 50px;
+}
+
+.doklad{
+    text-align: left;
+    padding: 100px;
+}
+
+.remember{
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 1rem;
+   margin: 0px;
+   padding: 100px;
+}
+
+h4{
+    text-align: left;  
+color: rgb(0, 0, 0);
+font-size: x-large;
+}
+h2{
+    color: rgb(53, 8, 116);
+}
+h5{
+    text-align: left;  
+    color: red;
+    size: large;
+}
+p{
+    color: rgb(53, 8, 116);
+    font-size: large;
+}
